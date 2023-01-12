@@ -1,0 +1,36 @@
+.navbar{
+    background-color: black;
+}
+.icon{
+    padding-left: 80px;
+}
+.computer{
+    height: 400px;
+    width: 500px;
+}
+.icons{
+    height: 30px;
+    width: 30px;
+}
+.project{
+    width: 200px;
+    height: 200px;
+}
+.footer-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.footer-list{
+    list-style: none;
+}
+.box-parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.box{
+    border: 1px solid white;
+    height: 100px;
+    width: 100px;
+}
